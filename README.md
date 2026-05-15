@@ -8,8 +8,8 @@ This repository contains the complete documentation, source code, and design fil
 3. [Overall Diagram](#3-overall-diagram)
 4. [Python Program (Control & Vision)](#4-python-program-control--vision)
     - [Raspberry Pi 4 (Master Logic)](#raspberry-pi-4-master-logic)
-    - [Raspberry Pi Pico (Motor Control))](#raspberry-pi-pico-motor-control)
-5. [The Part Lists (BOM](#5-the-part-lists-bom)
+    - [Raspberry Pi Pico (Motor Control)](#raspberry-pi-pico-motor-control)
+5. [The Part Lists (BOM)](#5-the-part-lists-bom)
 6. [Demonstration Clip](#6-demonstration-clip)
 7. [CAD Design](#7-cad-design)
 8. [High-Quality Render](#8-high-quality-render)
@@ -50,23 +50,25 @@ Detailed specifications, suppliers, and pricing for all mechanical and electroni
 🔗 **[View Bill of Materials (Google Docs)](https://docs.google.com/document/d/13ywRA99andXz3X4eBQuF-4wUD0CNCDNxtUGLMidMCd8/edit?tab=t.0)**
 
 ## 6. Demonstration Clip
-See the Sentry Gun in action, tracking and engaging targets in real-time.
+An overview video explaining the project in detail, along with a live demonstration of the system's working features, tracking capabilities, and firing mechanisms.
 
 [![Sentry Gun Demo](https://img.youtube.com/vi/y7a5NazC8Oo/maxresdefault.jpg)](https://www.youtube.com/watch?v=y7a5NazC8Oo)
 
 ## 7. CAD Design
-Complete 3D models of the Sentry Gun assembly.
+Complete 3D models of the Sentry Gun assembly. 
+*Note: A 3D scanning feature was utilized to scan the physical gun to ensure a highly accurate and custom-fit design for the gun mounting mechanism.*
 
-**[Download CAD Files (Google Drive)](https://drive.google.com/file/d/1mrUgY9s_Yw8mawP619Sirvth3tozgA6Q/view?usp=sharing)**
+📁 **[Download CAD Files (Google Drive)](https://drive.google.com/file/d/1mrUgY9s_Yw8mawP619Sirvth3tozgA6Q/view?usp=sharing)**
 
 ## 8. High-Quality Render
 Visualization of the final assembled product.
 
-**[View Renders (Google Drive)](https://drive.google.com/file/d/17qIY9MEWtkzhQ20ECSBVelnX3ph_gVum/view?usp=sharing)**
+🖼️ **[View Renders (Google Drive)](https://drive.google.com/file/d/17qIY9MEWtkzhQ20ECSBVelnX3ph_gVum/view?usp=sharing)**
 
 ## 9. Animation
-Dynamic animation showing the range of motion and firing sequence.
+A 3D assembly animation demonstrating how the individual mechanical components and 3D printed parts fit together to build the final Sentry Gun.
 
-**[Watch Animation (Google Drive)](https://drive.google.com/file/d/1w4ELWVbXcfN9jxWqPiFjKmMpadruqyHq/view?usp=sharing)**
+🎬 **[Watch Animation (Google Drive)](https://drive.google.com/file/d/1w4ELWVbXcfN9jxWqPiFjKmMpadruqyHq/view?usp=sharing)**
 
 ---
+*Developed by RR Robot Team.*
