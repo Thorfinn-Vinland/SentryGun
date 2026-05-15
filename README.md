@@ -30,7 +30,6 @@ This project builds upon the growing "DIY Sentry" community, combining advanced 
 ## 3. Overall Diagram
 The system architecture integrates a Raspberry Pi 4 for vision processing, connected to a Raspberry Pi Pico (on the Cytron Motion 2350 PRO) via UART. The mechanical system is powered by a 24V DC supply, driving NEMA steppers through microstep drivers.
 
-*(Please ensure you have the 'Wiring_Diagram.png' in your repository root)*
 ![Wiring Diagram](Wiring_Diagram.png)
 
 ## 4. Python Program (Control & Vision)
@@ -362,16 +361,16 @@ See the Sentry Gun in action, tracking and engaging targets in real-time.
 ## 7. CAD Design
 Complete 3D models of the Sentry Gun assembly.
 
-📁 **[Download CAD Files (Google Drive)](https://drive.google.com/file/d/1mrUgY9s_Yw8mawP619Sirvth3tozgA6Q/view?usp=sharing)**
+**[Download CAD Files (Google Drive)](https://drive.google.com/file/d/1mrUgY9s_Yw8mawP619Sirvth3tozgA6Q/view?usp=sharing)**
 
 ## 8. High-Quality Render
 Visualization of the final assembled product.
 
-🖼️ **[View Renders (Google Drive)](https://drive.google.com/file/d/17qIY9MEWtkzhQ20ECSBVelnX3ph_gVum/view?usp=sharing)**
+**[View Renders (Google Drive)](https://drive.google.com/file/d/17qIY9MEWtkzhQ20ECSBVelnX3ph_gVum/view?usp=sharing)**
 
 ## 9. Animation
 Dynamic animation showing the range of motion and firing sequence.
 
-🎬 **[Watch Animation (Google Drive)](https://drive.google.com/file/d/1w4ELWVbXcfN9jxWqPiFjKmMpadruqyHq/view?usp=sharing)**
+**[Watch Animation (Google Drive)](https://drive.google.com/file/d/1w4ELWVbXcfN9jxWqPiFjKmMpadruqyHq/view?usp=sharing)**
 
 ---
